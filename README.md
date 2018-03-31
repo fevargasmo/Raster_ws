@@ -29,10 +29,29 @@ Complete la tabla:
 Describa los resultados obtenidos. Qué técnicas de anti-aliasing y shading se exploraron? Adjunte las referencias. Discuta las dificultades encontradas.
 - Resultados obtenidos:
 
-![triangulo en cuadriculada](https://github.com/fevargasmo/Raster_ws/blob/master/images/triangulo%20en%20cuadriculada.png "Triangulo en cuadriculada]")
-
+Triangulo en cuadricula
 <p align="center">
 <img src="https://github.com/fevargasmo/Raster_ws/blob/master/images/triangulo%20en%20cuadriculada.png" alt="triangulo en cuadriculada" height="500" width="540"/>
+  </p>
+  
+ Anti aliasing con contorno
+  <p align="center">
+<img src="https://github.com/fevargasmo/Raster_ws/blob/master/images/antialiasing%20contorno.png" alt="antialiasing contorno" height="500" width="540"/>
+  </p>
+  
+Anti aliasing sin contorno
+  <p align="center">
+<img src="https://github.com/fevargasmo/Raster_ws/blob/master/images/antialiasing%20sin%20contorno.png" alt="antialiasing sin contorno" height="500" width="540"/>
+  </p>
+  
+Grilla media
+  <p align="center">
+<img src="https://github.com/fevargasmo/Raster_ws/blob/master/images/cuadricula%20media.png" alt="Grilla media" height="500" width="540"/>
+  </p>
+    
+Grilla grande
+  <p align="center">
+<img src="https://github.com/fevargasmo/Raster_ws/blob/master/images/cuadricula%20alejada.png" alt="Grilla grande" height="500" width="540"/>
   </p>
 
 - Anti-aliasing:
