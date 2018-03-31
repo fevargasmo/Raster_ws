@@ -32,7 +32,7 @@ Describa los resultados obtenidos. Qué técnicas de anti-aliasing y shading se 
 ![triangulo en cuadriculada](https://github.com/fevargasmo/Raster_ws/blob/master/images/triangulo%20en%20cuadriculada.png "Triangulo en cuadriculada]")
 
 <p align="center">
-<img src="https://github.com/fevargasmo/Raster_ws/blob/master/images/triangulo%20en%20cuadriculada.png" alt="triangulo en cuadriculada" height="500" width="500"/>
+<img src="https://github.com/fevargasmo/Raster_ws/blob/master/images/triangulo%20en%20cuadriculada.png" alt="triangulo en cuadriculada" height="640" width="360"/>
   </p>
 
 - Anti-aliasing:
