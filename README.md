@@ -34,12 +34,12 @@ Triangulo en cuadricula
 <img src="https://github.com/fevargasmo/Raster_ws/blob/master/images/triangulo%20en%20cuadriculada.png" alt="triangulo en cuadriculada" height="500" width="540"/>
   </p>
   
- Anti aliasing con contorno
+ Anti-aliasing con contorno
   <p align="center">
 <img src="https://github.com/fevargasmo/Raster_ws/blob/master/images/antialiasing%20contorno.png" alt="antialiasing contorno" height="500" width="540"/>
   </p>
   
-Anti aliasing sin contorno
+Anti-aliasing sin contorno
   <p align="center">
 <img src="https://github.com/fevargasmo/Raster_ws/blob/master/images/antialiasing%20sin%20contorno.png" alt="antialiasing sin contorno" height="500" width="540"/>
   </p>
