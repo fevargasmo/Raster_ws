@@ -28,7 +28,11 @@ Complete la tabla:
 ## Discusión
 Describa los resultados obtenidos. Qué técnicas de anti-aliasing y shading se exploraron? Adjunte las referencias. Discuta las dificultades encontradas.
 - Resultados obtenidos:
+
 ![triangulo en cuadriculada](https://github.com/fevargasmo/Raster_ws/blob/master/images/triangulo%20en%20cuadriculada.png "Triangulo en cuadriculada]")
+
+<img src="https://github.com/fevargasmo/Raster_ws/blob/master/images/triangulo%20en%20cuadriculada.png" alt="triangulo en cuadriculada" style="width: 200px; height: 200px"/>
+
 - Anti-aliasing:
   Subsampling: subdividir cada pixel en n zonas. La intensidad del color es proporcional al numero de zonas que pertenecen al triangulo.
 
